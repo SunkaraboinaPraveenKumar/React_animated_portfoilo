@@ -1,5 +1,21 @@
 [
   {
+    "title":"C Lang",
+    "imageSrc":"skills/c.png"
+  },
+  {
+    "title":"Java",
+    "imageSrc":"skills/java.png"
+  },
+  {
+    "title":"Python",
+    "imageSrc":"skills/python.png"
+  },
+  {
+    "title":"DSA",
+    "imageSrc":"skills/dsa.png"
+  },
+  {
     "title": "HTML",
     "imageSrc": "skills/html.png"
   },
@@ -24,15 +40,15 @@
     "imageSrc":"skills/firebase.png"
   },
   {
-    "title": "GraphQL",
-    "imageSrc": "skills/graphql.png"
-  },
-  {
     "title": "MongoDB",
     "imageSrc": "skills/mongodb.png"
   },
   {
-    "title": "Figma",
-    "imageSrc": "skills/figma.png"
+    "title": "LeetCode 750+",
+    "imageSrc": "skills/leet.png"
+  },
+  {
+    "title": "Geeks For Geeks 100+",
+    "imageSrc": "skills/geeks.png"
   }
 ]

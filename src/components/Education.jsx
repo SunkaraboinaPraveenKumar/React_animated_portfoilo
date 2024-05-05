@@ -3,8 +3,8 @@ import experience from './data/experience.json';
 const Experience = () => {
     return (
         <>
-            <div className="container ex" id="experience">
-                <h1>Experience</h1>
+            <div className="container ex" id="education">
+                <h1>Education</h1>
                 {
                     experience.map((data)=>{
                         return(
@@ -13,13 +13,14 @@ const Experience = () => {
                             data-aos="zoom-in"
                             data-aos-duration="1000">
                                 <div className="left">
-                                    <img src={`/assets/${data.imageSrc}`} alt="company" />
+                                    <img src={`${data.imageSrc}`} alt="company" />
                                 </div>
                                 <div className="right">
                                     <h2>{data.role}</h2>
                                     <h4>
                                         <span style={{color:"yellowgreen"}}>
-                                            {data.startDate}{" "}{data.endDate} {" "}
+                                            {data.startDate}
+                                            <br/>
                                             <span style={{color:"yellow"}}>{data.location} </span>
                                         </span>
                                     </h4>

@@ -6,12 +6,12 @@ const Projects = () => {
     <>
       <div className="container projects my-3" id="projects">
         <h1>PROJECTS</h1>
-        <div className="row d-flex justify-content-center align-content-center">
+        <div className="row d-flex justify-content-space-between align-items-center">
           {project.map((data) => (
             <>
               <div
                 key={data.id}
-                className="my-4 col-sm-6 col-md-4 col-lg-3 mx-4"
+                className="my-4  col-sm-6 col-md-4 col-lg-3 mx-4"
               >
                 <div
                   className="card bg-dark text-light"
@@ -39,11 +39,11 @@ const Projects = () => {
                   <div className="card-body text-center">
                     <h5 className="card-title">{data.title}</h5>
                     <p className="card-text">{data.description}</p>
-                    <a href={data.demo} className="btn btn-primary mx-3">
+                    {/* <a href={data.demo} className="btn btn-primary mx-3">
                       Demo
-                    </a>
+                    </a> */}
                     <a href={data.source} className="btn btn-warning">
-                      Code
+                      Source Code
                     </a>
                   </div>
                 </div>

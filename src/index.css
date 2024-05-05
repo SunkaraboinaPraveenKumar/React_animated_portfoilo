@@ -150,3 +150,155 @@ a{
 .contact-icon .items .icons {
   font-size: 2rem;
 }
+
+@media screen and (max-width: 768px) {
+  .home {
+    flex-direction: column;
+    justify-content: center;
+  }
+
+  .home .left {
+    width: 100%;
+    margin-bottom: 20px;
+  }
+
+  .home .right {
+    width: 100%;
+  }
+
+  .home .right .img img {
+    height: 150px;
+    width: 150px;
+  }
+
+  .nav_bar {
+    flex-direction: column;
+    align-items: flex-start;
+  }
+
+  .nav_bar .nav_items {
+    margin-left: 10px;
+    font-size: 1rem;
+    padding: 5px;
+  }
+
+  /* Adjust Experience section */
+  .ex {
+    width: 100%;
+  }
+
+  .ex-items {
+    width: 90%;
+    padding: 20px;
+  }
+  .row{
+    gap:70px;
+  }
+  /* Adjust Skills */
+  .skills {
+    width: 100%;
+  }
+
+  .skills .items {
+    flex-direction: column;
+  }
+
+  .skills .items .item {
+    width: 30%;
+    margin-right: 200px;
+  }
+
+  /* Contact Section */
+  .contact-icon {
+    flex-direction: row;
+    height: 40vh;
+  }
+
+  .contact-icon .items {
+    margin: 5px;
+    height: 50px;
+    width: 50px;
+  }
+  .contact-icon .items .icons {
+    font-size: 1.5rem;
+  }
+}
+
+/* Responsive Design for Mobile Screens (320px or less) */
+@media screen and (max-width: 320px) {
+  .nav_bar {
+    padding: 5px;
+    align-items: center;
+  }
+
+  .nav_bar .nav_items {
+    font-size: 0.8rem; /* Smaller font size */
+  }
+
+  .home {
+    height: 70vh; /* Reduced height */
+  }
+
+  .home .left {
+    padding: 5px; /* Reduced padding */
+    margin-left: 200px;
+  }
+
+  .home .right .img img {
+    height: 100px; /* Smaller image height */
+    width: 100px; /* Smaller image width */
+    margin-left: 200px;
+  }
+
+  .ex {
+    padding: 5px; /* Reduced padding */
+    margin: 10px auto; /* Ensure it stays centered */
+    width:140vw;
+  }
+
+  .ex-items {
+    padding: 5px; /* Reduced padding */
+    font-size: 0.8rem; /* Smaller font size */
+    overflow-wrap: break-word; /* Ensures text wraps within the container */
+    width: 95%; /* Adjust width to avoid overflow */
+  }
+
+  /* Skills section */
+  .skills .items .item {
+    padding: 7px; /* Reduced padding */
+    font-size: 0.9rem; /* Smaller font size */
+  }
+  /* Contact section */
+  .contact-icon {
+    height: 20vh;
+  }
+
+  .contact-icon .items {
+    height: 20px;
+    width: 20px;
+  }
+
+  .contact-icon .items .icons {
+    font-size: 1rem;
+    transition: none;
+  }
+}
+@media screen and (max-width:375px){
+  .ex {
+    padding: 5px; /* Reduced padding */
+    margin: 10px auto; /* Ensure it stays centered */
+    width:150vw;
+  }
+
+  .ex-items {
+    padding: 5px; /* Reduced padding */
+    font-size: 0.8rem; /* Smaller font size */
+    overflow-wrap: break-word; /* Ensures text wraps within the container */
+    width: 95%; /* Adjust width to avoid overflow */
+  }
+}
+@media screen and (max-width:1440px){
+  .row{
+    gap:30px;
+  }
+}

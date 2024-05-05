@@ -1,12 +1,12 @@
 import React, { useRef,useEffect } from "react";
-import pdf from '../pdf/resume.pdf';
+import pdf from '../pdf/ResumePraveen.pdf';
 import hero from './data/hero.json';
 import Typed from 'typed.js';
 const Home = () => {
     const typedRef=useRef(null);
     useEffect(()=>{
         const options ={
-            strings:["Welcome To My Profile","My Name is Sunkaraboina Praveen Kumar.","Web Developer-React"],
+            strings:["Welcome To My Profile","My Name is Sunkaraboina Praveen Kumar.","Tech Enthusiast"],
             typeSpeed:50,
             backSpeed:50,
             loop:true,

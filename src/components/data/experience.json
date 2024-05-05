@@ -1,41 +1,40 @@
 [
   {
     "id": 1,
-    "role": "Senior Software Development Engineer SDE - II",
+    "role": "Bachelor Of Technology(B.TECH)",
     "organisation": "Google",
-    "startDate": "Sept, 2023",
-    "endDate": "Present",
-    "location": "CA,United State",
+    "startDate": "2020 to 2026",
+    "endDate": "",
+    "location": "Jawaharlal Nehru Techological University Hyderabad",
     "experiences": [
-      "Worked on Google Gmail",
-      "Worked with the Google Bard Team"
+      "Computer Science and Engineering(CSE)",
+      "CGPA: 9.5"
     ],
-    "imageSrc": "company/google.png"
+    "imageSrc": "https://cdn-icons-png.flaticon.com/128/2231/2231696.png"
   },
   {
     "id": 2,
-    "role": "Software Development Engineer SDE - I",
-    "organisation": "Mirosoft",
-    "startDate": "Aug, 2022",
-    "endDate": "Aug, 2023",
-    "location": "London, UK",
+    "role": "Board of Intermediate Education",
+    "organisation": "Pragathi Junior College",
+    "startDate": "2020-2022",
+    "endDate": "2022",
+    "location": "Nalgonda, Telangana",
     "experiences": [
-      "Worked on Windows 10 terminal",
-      "Worked on Window 11 Upcoming features"
+      "Maths Physics Chemistry(MPC)",
+      "Marks/Percentage: 988"
     ],
-    "imageSrc": "company/microsoft.png"
+    "imageSrc": "https://cdn-icons-png.flaticon.com/128/8074/8074794.png"
   },
   {
     "id": 3,
-    "role": "Software Development Engineer - Intern",
-    "organisation": "Netflix",
-    "startDate": "Apr, 2021",
+    "role": "Board of Secondary Education",
+    "organisation": "New Vision High School",
+    "startDate": "2020",
     "endDate": "Jun, 2022",
-    "location": "Bengluru, India",
+    "location": "Nalgonda, Telangana",
     "experiences": [
-      "Worked on Nextflix payment system",
-      "Helped to create UI for video player"
+      "GPA: 10/10"
     ],
-    "imageSrc": "company/netflix.png"
+    "imageSrc": "https://cdn-icons-png.flaticon.com/128/8074/8074788.png"
   }
 ]
