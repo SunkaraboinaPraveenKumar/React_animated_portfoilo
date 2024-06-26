@@ -6,7 +6,7 @@ const Home = () => {
     const typedRef=useRef(null);
     useEffect(()=>{
         const options ={
-            strings:["Welcome To My Profile","My Name is Sunkaraboina Praveen Kumar.","Tech Enthusiast"],
+            strings:["Welcome To My Profile","My Name is Sunkaraboina Praveen Kumar.","Tech Enthusiast","Machine Learner","Web Developer Front End and Back End"],
             typeSpeed:50,
             backSpeed:50,
             loop:true,

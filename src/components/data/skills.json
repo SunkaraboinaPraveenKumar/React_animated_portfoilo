@@ -44,11 +44,19 @@
     "imageSrc": "skills/mongodb.png"
   },
   {
-    "title": "LeetCode 750+",
+    "title": "LeetCode 900+",
     "imageSrc": "skills/leet.png"
   },
   {
-    "title": "Geeks For Geeks 100+",
+    "title": "Geeks For Geeks 200+",
     "imageSrc": "skills/geeks.png"
+  },
+  {
+    "title": "Machine Learning",
+    "imageSrc": "skills/machine.jpeg"
+  },
+  {
+    "title": "Kotlin-App Development",
+    "imageSrc": "skills/kotlin.jpeg"
   }
 ]

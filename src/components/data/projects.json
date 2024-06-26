@@ -11,7 +11,7 @@
     "key": 2,
     "title": "Social Media React Website",
     "imageSrc": "https://th.bing.com/th/id/OIP.cLKj7HEBCCD4mD6pc3HajgHaHa?pid=ImgDet&w=474&h=474&rs=1",
-    "description": "This is a project made with complete React js and FireBase",
+    "description": "This is a project made with complete React js and FireBase and Node JS",
     "demo": "https://www.example.com",
     "source": "https://github.com/SunkaraboinaPraveenKumar/SocialMedia_React_App"
   },
@@ -38,5 +38,46 @@
     "description": "This is a project made with complete JavaScript, HTML, CSS",
     "demo": "https://www.example.com",
     "source": "https://github.com/SunkaraboinaPraveenKumar/ShoppingCart-JS"
+  },
+  {
+    "key": 6,
+    "title": "Machine Learning projects",
+    "imageSrc": "https://th.bing.com/th/id/OIP.vo3M_xHubdm9j47KWO3D1AHaEK?rs=1&pid=ImgDetMain",
+    "description": "This is a project made with complete JavaScript, HTML, CSS",
+    "demo": "https://www.example.com",
+    "source": "https://github.com/SunkaraboinaPraveenKumar/Machine_Learning_Projects"
+  },
+  {
+    "key": 7,
+    "title": "Kotlin-Finanace_Expense_Tracker",
+    "imageSrc": "https://media.geeksforgeeks.org/wp-content/cdn-uploads/20210707194050/A-Complete-Guide-to-Learn-Kotlin-for-Android-App-Development.png",
+    "description": "This is a project made with complete Kotlin,Fire Base",
+    "demo": "https://www.example.com",
+    "source": "https://github.com/SunkaraboinaPraveenKumar/Expense_Tracker_Paas"
+  },
+  {
+    "key": 8,
+    "title": "Self Driving Car",
+    "imageSrc": "https://th.bing.com/th/id/OIP.jg0qtzqwSZUP9ndFZAz4-QHaE8?rs=1&pid=ImgDetMain",
+    "description": "This is a project made with complete JavaScript Neural Networks",
+    "demo": "https://www.example.com",
+    "source": "https://github.com/SunkaraboinaPraveenKumar/Self-Driving-Car"
+  },
+  {
+    "key": 9,
+    "title": "MERN Book Store FrontEnd",
+    "imageSrc": "https://th.bing.com/th/id/OIP.6e8LMdXKveiMKJRdSe4SQwHaE8?rs=1&pid=ImgDetMain",
+    "description": "This is a project made with complete React JS",
+    "demo": "https://www.example.com",
+    "source": "https://github.com/SunkaraboinaPraveenKumar/Mern-bookStore-fronend"
+  },
+  {
+    "key": 10,
+    "title": "MERN Book Store BackEnd",
+    "imageSrc": "https://static.vecteezy.com/system/resources/previews/012/044/771/large_2x/illustration-of-book-shop-showcase-with-lots-of-books-with-bench-and-little-bookcase-outside-book-shop-exterior-in-flat-style-vector.jpg",
+    "description": "This is a project made with complete Node JS,Express,MongoDB",
+    "demo": "https://www.example.com",
+    "source": "https://github.com/SunkaraboinaPraveenKumar/Mern-Book-Store-BackEnd"
   }
+
 ]
