@@ -12,7 +12,7 @@ const Skills = () => {
                             <div className="item" key={data.id}
                             data-aos="flip-left"
                             data-aos-duration="1000">
-                                <img src={`/assets/${data.imageSrc}`} alt="skill" />
+                                <img src={`ReactPortfolio/assets/${data.imageSrc}`} alt="skill" />
                                 <h3>{data.title}</h3>
                             </div>
                         </>

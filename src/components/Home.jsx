@@ -31,7 +31,7 @@ const Home = () => {
                 data-aos="fade-up-left"
                 data-aos-duration="1000">
                     <div className="img">
-                    <img src={`/assets/${hero.imgSrc}`} alt="image" />
+                    <img src={`ReactPortfolio/assets/${hero.imgSrc}`} alt="image" />
                     </div>
                 </div>
             </div>
